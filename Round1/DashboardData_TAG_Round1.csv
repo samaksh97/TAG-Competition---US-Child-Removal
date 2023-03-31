@@ -1,0 +1,573 @@
+,state_name,year,value_all,value_housing,State,Total Children Under 18
+0,Alabama,year2010,2433,281.0,Alabama,1088727
+1,Alabama,year2011,2511,251.0,Alabama,1088727
+2,Alabama,year2012,2155,267.0,Alabama,1088727
+3,Alabama,year2013,2387,304.0,Alabama,1088727
+4,Alabama,year2014,2496,323.0,Alabama,1088727
+5,Alabama,year2015,2845,375.0,Alabama,1088727
+6,Alabama,year2016,2913,409.0,Alabama,1088727
+7,Alabama,year2017,3286,455.0,Alabama,1088727
+8,Alabama,year2018,3158,475.0,Alabama,1088727
+9,Alabama,year2019,3019,418.0,Alabama,1088727
+10,Alabama,year2020,2592,352.0,Alabama,1088727
+11,Alaska,year2010,669,39.0,Alaska,180442
+12,Alaska,year2011,704,48.0,Alaska,180442
+13,Alaska,year2012,723,51.0,Alaska,180442
+14,Alaska,year2013,792,47.0,Alaska,180442
+15,Alaska,year2014,931,48.0,Alaska,180442
+16,Alaska,year2015,1154,60.0,Alaska,180442
+17,Alaska,year2016,1050,58.0,Alaska,180442
+18,Alaska,year2017,955,42.0,Alaska,180442
+19,Alaska,year2018,1042,35.0,Alaska,180442
+20,Alaska,year2019,1184,51.0,Alaska,180442
+21,Alaska,year2020,945,28.0,Alaska,180442
+22,Arizona,year2010,5968,2155.0,Arizona,1641727
+23,Arizona,year2011,6512,2422.0,Arizona,1641727
+24,Arizona,year2012,8425,2121.0,Arizona,1641727
+25,Arizona,year2013,8257,35.0,Arizona,1641727
+26,Arizona,year2014,9516,59.0,Arizona,1641727
+27,Arizona,year2015,9886,369.0,Arizona,1641727
+28,Arizona,year2016,8650,332.0,Arizona,1641727
+29,Arizona,year2017,7486,342.0,Arizona,1641727
+30,Arizona,year2018,6927,268.0,Arizona,1641727
+31,Arizona,year2019,7438,336.0,Arizona,1641727
+32,Arizona,year2020,7125,301.0,Arizona,1641727
+33,Arkansas,year2010,3032,292.0,Arkansas,701317
+34,Arkansas,year2011,2896,232.0,Arkansas,701317
+35,Arkansas,year2012,2995,266.0,Arkansas,701317
+36,Arkansas,year2013,2912,205.0,Arkansas,701317
+37,Arkansas,year2014,2799,282.0,Arkansas,701317
+38,Arkansas,year2015,3354,283.0,Arkansas,701317
+39,Arkansas,year2016,3242,320.0,Arkansas,701317
+40,Arkansas,year2017,2855,267.0,Arkansas,701317
+41,Arkansas,year2018,2309,245.0,Arkansas,701317
+42,Arkansas,year2019,2373,291.0,Arkansas,701317
+43,Arkansas,year2020,2370,204.0,Arkansas,701317
+44,California,year2010,25341,864.0,California,8881104
+45,California,year2011,24440,831.0,California,8881104
+46,California,year2012,24766,779.0,California,8881104
+47,California,year2013,25883,827.0,California,8881104
+48,California,year2014,25741,1017.0,California,8881104
+49,California,year2015,24395,813.0,California,8881104
+50,California,year2016,23767,800.0,California,8881104
+51,California,year2017,21374,955.0,California,8881104
+52,California,year2018,20588,797.0,California,8881104
+53,California,year2019,21654,763.0,California,8881104
+54,California,year2020,17999,552.0,California,8881104
+55,Colorado,year2010,4435,312.0,Colorado,1256673
+56,Colorado,year2011,4148,343.0,Colorado,1256673
+57,Colorado,year2012,3871,330.0,Colorado,1256673
+58,Colorado,year2013,3648,349.0,Colorado,1256673
+59,Colorado,year2014,3663,385.0,Colorado,1256673
+60,Colorado,year2015,3834,372.0,Colorado,1256673
+61,Colorado,year2016,4066,547.0,Colorado,1256673
+62,Colorado,year2017,3933,401.0,Colorado,1256673
+63,Colorado,year2018,3617,422.0,Colorado,1256673
+64,Colorado,year2019,3346,424.0,Colorado,1256673
+65,Colorado,year2020,2701,252.0,Colorado,1256673
+66,Connecticut,year2010,1915,263.0,Connecticut,727280
+67,Connecticut,year2011,1684,253.0,Connecticut,727280
+68,Connecticut,year2012,1270,176.0,Connecticut,727280
+69,Connecticut,year2013,1417,197.0,Connecticut,727280
+70,Connecticut,year2014,1339,204.0,Connecticut,727280
+71,Connecticut,year2015,1370,218.0,Connecticut,727280
+72,Connecticut,year2016,1586,272.0,Connecticut,727280
+73,Connecticut,year2017,1492,227.0,Connecticut,727280
+74,Connecticut,year2018,1642,242.0,Connecticut,727280
+75,Connecticut,year2019,1504,199.0,Connecticut,727280
+76,Connecticut,year2020,938,102.0,Connecticut,727280
+77,Delaware,year2010,318,5.0,Delaware,204263
+78,Delaware,year2011,427,16.0,Delaware,204263
+79,Delaware,year2012,378,31.0,Delaware,204263
+80,Delaware,year2013,295,7.0,Delaware,204263
+81,Delaware,year2014,254,8.0,Delaware,204263
+82,Delaware,year2015,310,13.0,Delaware,204263
+83,Delaware,year2016,398,32.0,Delaware,204263
+84,Delaware,year2017,360,16.0,Delaware,204263
+85,Delaware,year2018,303,49.0,Delaware,204263
+86,Delaware,year2019,238,27.0,Delaware,204263
+87,Delaware,year2020,203,22.0,Delaware,204263
+88,District of Columbia,year2010,593,29.0,District of Columbia,127952
+89,District of Columbia,year2011,422,10.0,District of Columbia,127952
+90,District of Columbia,year2012,337,8.0,District of Columbia,127952
+91,District of Columbia,year2013,314,7.0,District of Columbia,127952
+92,District of Columbia,year2014,297,4.0,District of Columbia,127952
+93,District of Columbia,year2015,345,5.0,District of Columbia,127952
+94,District of Columbia,year2016,281,5.0,District of Columbia,127952
+95,District of Columbia,year2017,231,8.0,District of Columbia,127952
+96,District of Columbia,year2018,263,12.0,District of Columbia,127952
+97,District of Columbia,year2019,247,3.0,District of Columbia,127952
+98,District of Columbia,year2020,146,1.0,District of Columbia,127952
+99,Florida,year2010,11196,1372.0,Florida,4233967
+100,Florida,year2011,12476,1546.0,Florida,4233967
+101,Florida,year2012,11819,1387.0,Florida,4233967
+102,Florida,year2013,10915,1307.0,Florida,4233967
+103,Florida,year2014,11997,1428.0,Florida,4233967
+104,Florida,year2015,13542,1458.0,Florida,4233967
+105,Florida,year2016,13332,1485.0,Florida,4233967
+106,Florida,year2017,12645,1335.0,Florida,4233967
+107,Florida,year2018,12125,1504.0,Florida,4233967
+108,Florida,year2019,11771,1320.0,Florida,4233967
+109,Florida,year2020,10068,1220.0,Florida,4233967
+110,Georgia,year2010,4168,950.0,Georgia,2505399
+111,Georgia,year2011,5138,1035.0,Georgia,2505399
+112,Georgia,year2012,4796,888.0,Georgia,2505399
+113,Georgia,year2013,4601,850.0,Georgia,2505399
+114,Georgia,year2014,5933,1268.0,Georgia,2505399
+115,Georgia,year2015,6757,1458.0,Georgia,2505399
+116,Georgia,year2016,6407,1305.0,Georgia,2505399
+117,Georgia,year2017,6093,1339.0,Georgia,2505399
+118,Georgia,year2018,5975,1183.0,Georgia,2505399
+119,Georgia,year2019,5042,1111.0,Georgia,2505399
+120,Georgia,year2020,3408,727.0,Georgia,2505399
+121,Hawaii,year2010,700,38.0,Hawaii,299419
+122,Hawaii,year2011,806,26.0,Hawaii,299419
+123,Hawaii,year2012,780,37.0,Hawaii,299419
+124,Hawaii,year2013,774,30.0,Hawaii,299419
+125,Hawaii,year2014,851,46.0,Hawaii,299419
+126,Hawaii,year2015,915,38.0,Hawaii,299419
+127,Hawaii,year2016,881,31.0,Hawaii,299419
+128,Hawaii,year2017,891,33.0,Hawaii,299419
+129,Hawaii,year2018,900,36.0,Hawaii,299419
+130,Hawaii,year2019,929,15.0,Hawaii,299419
+131,Hawaii,year2020,704,24.0,Hawaii,299419
+132,Idaho,year2010,1039,195.0,Idaho,448116
+133,Idaho,year2011,952,159.0,Idaho,448116
+134,Idaho,year2012,811,118.0,Idaho,448116
+135,Idaho,year2013,922,139.0,Idaho,448116
+136,Idaho,year2014,852,174.0,Idaho,448116
+137,Idaho,year2015,945,155.0,Idaho,448116
+138,Idaho,year2016,1010,182.0,Idaho,448116
+139,Idaho,year2017,976,224.0,Idaho,448116
+140,Idaho,year2018,1104,251.0,Idaho,448116
+141,Idaho,year2019,975,193.0,Idaho,448116
+142,Idaho,year2020,844,143.0,Idaho,448116
+143,Illinois,year2010,4172,,Illinois,2817312
+144,Illinois,year2011,3281,,Illinois,2817312
+145,Illinois,year2012,3483,,Illinois,2817312
+146,Illinois,year2013,3577,,Illinois,2817312
+147,Illinois,year2014,3777,,Illinois,2817312
+148,Illinois,year2015,3742,,Illinois,2817312
+149,Illinois,year2016,3385,,Illinois,2817312
+150,Illinois,year2017,3747,,Illinois,2817312
+151,Illinois,year2018,4447,,Illinois,2817312
+152,Illinois,year2019,5292,,Illinois,2817312
+153,Illinois,year2020,6024,,Illinois,2817312
+154,Indiana,year2010,7005,373.0,Indiana,1569375
+155,Indiana,year2011,5634,308.0,Indiana,1569375
+156,Indiana,year2012,6014,729.0,Indiana,1569375
+157,Indiana,year2013,6039,1127.0,Indiana,1569375
+158,Indiana,year2014,7182,1388.0,Indiana,1569375
+159,Indiana,year2015,8714,1468.0,Indiana,1569375
+160,Indiana,year2016,9980,1633.0,Indiana,1569375
+161,Indiana,year2017,9903,1616.0,Indiana,1569375
+162,Indiana,year2018,7646,1403.0,Indiana,1569375
+163,Indiana,year2019,7050,1253.0,Indiana,1569375
+164,Indiana,year2020,6353,974.0,Indiana,1569375
+165,Iowa,year2010,3669,161.0,Iowa,728005
+166,Iowa,year2011,3345,118.0,Iowa,728005
+167,Iowa,year2012,3282,130.0,Iowa,728005
+168,Iowa,year2013,3437,108.0,Iowa,728005
+169,Iowa,year2014,2864,99.0,Iowa,728005
+170,Iowa,year2015,3030,120.0,Iowa,728005
+171,Iowa,year2016,2925,107.0,Iowa,728005
+172,Iowa,year2017,3211,99.0,Iowa,728005
+173,Iowa,year2018,3080,119.0,Iowa,728005
+174,Iowa,year2019,2826,78.0,Iowa,728005
+175,Iowa,year2020,1896,63.0,Iowa,728005
+176,Kansas,year2010,2756,269.0,Kansas,701453
+177,Kansas,year2011,2621,283.0,Kansas,701453
+178,Kansas,year2012,2892,351.0,Kansas,701453
+179,Kansas,year2013,2949,393.0,Kansas,701453
+180,Kansas,year2014,2934,411.0,Kansas,701453
+181,Kansas,year2015,3131,344.0,Kansas,701453
+182,Kansas,year2016,2953,319.0,Kansas,701453
+183,Kansas,year2017,3000,346.0,Kansas,701453
+184,Kansas,year2018,3230,394.0,Kansas,701453
+185,Kansas,year2019,3272,279.0,Kansas,701453
+186,Kansas,year2020,2087,38.0,Kansas,701453
+187,Kentucky,year2010,4318,352.0,Kentucky,1004268
+188,Kentucky,year2011,4076,376.0,Kentucky,1004268
+189,Kentucky,year2012,4426,379.0,Kentucky,1004268
+190,Kentucky,year2013,4382,415.0,Kentucky,1004268
+191,Kentucky,year2014,4422,373.0,Kentucky,1004268
+192,Kentucky,year2015,4136,336.0,Kentucky,1004268
+193,Kentucky,year2016,4427,423.0,Kentucky,1004268
+194,Kentucky,year2017,4806,450.0,Kentucky,1004268
+195,Kentucky,year2018,6045,646.0,Kentucky,1004268
+196,Kentucky,year2019,4949,524.0,Kentucky,1004268
+197,Kentucky,year2020,3670,344.0,Kentucky,1004268
+198,Louisiana,year2010,2505,41.0,Louisiana,1089906
+199,Louisiana,year2011,3024,44.0,Louisiana,1089906
+200,Louisiana,year2012,2301,40.0,Louisiana,1089906
+201,Louisiana,year2013,2712,46.0,Louisiana,1089906
+202,Louisiana,year2014,3165,13.0,Louisiana,1089906
+203,Louisiana,year2015,3226,14.0,Louisiana,1089906
+204,Louisiana,year2016,2857,6.0,Louisiana,1089906
+205,Louisiana,year2017,2779,9.0,Louisiana,1089906
+206,Louisiana,year2018,2789,13.0,Louisiana,1089906
+207,Louisiana,year2019,2113,6.0,Louisiana,1089906
+208,Louisiana,year2020,1696,16.0,Louisiana,1089906
+209,Maine,year2010,593,109.0,Maine,249610
+210,Maine,year2011,421,85.0,Maine,249610
+211,Maine,year2012,705,160.0,Maine,249610
+212,Maine,year2013,735,182.0,Maine,249610
+213,Maine,year2014,683,168.0,Maine,249610
+214,Maine,year2015,665,179.0,Maine,249610
+215,Maine,year2016,716,141.0,Maine,249610
+216,Maine,year2017,636,125.0,Maine,249610
+217,Maine,year2018,880,135.0,Maine,249610
+218,Maine,year2019,975,78.0,Maine,249610
+219,Maine,year2020,819,61.0,Maine,249610
+220,Maryland,year2010,2148,196.0,Maryland,1338232
+221,Maryland,year2011,2166,180.0,Maryland,1338232
+222,Maryland,year2012,1990,178.0,Maryland,1338232
+223,Maryland,year2013,1770,162.0,Maryland,1338232
+224,Maryland,year2014,1597,138.0,Maryland,1338232
+225,Maryland,year2015,1664,149.0,Maryland,1338232
+226,Maryland,year2016,1743,137.0,Maryland,1338232
+227,Maryland,year2017,1865,170.0,Maryland,1338232
+228,Maryland,year2018,1799,171.0,Maryland,1338232
+229,Maryland,year2019,1438,111.0,Maryland,1338232
+230,Maryland,year2020,1224,93.0,Maryland,1338232
+231,Massachusetts,year2010,4251,152.0,Massachusetts,1353615
+232,Massachusetts,year2011,4009,101.0,Massachusetts,1353615
+233,Massachusetts,year2012,4156,140.0,Massachusetts,1353615
+234,Massachusetts,year2013,4278,167.0,Massachusetts,1353615
+235,Massachusetts,year2014,5179,174.0,Massachusetts,1353615
+236,Massachusetts,year2015,4663,146.0,Massachusetts,1353615
+237,Massachusetts,year2016,4814,154.0,Massachusetts,1353615
+238,Massachusetts,year2017,4581,164.0,Massachusetts,1353615
+239,Massachusetts,year2018,4386,141.0,Massachusetts,1353615
+240,Massachusetts,year2019,4056,127.0,Massachusetts,1353615
+241,Massachusetts,year2020,3209,78.0,Massachusetts,1353615
+242,Michigan,year2010,6189,170.0,Michigan,2144307
+243,Michigan,year2011,5680,63.0,Michigan,2144307
+244,Michigan,year2012,5510,105.0,Michigan,2144307
+245,Michigan,year2013,5936,124.0,Michigan,2144307
+246,Michigan,year2014,5974,664.0,Michigan,2144307
+247,Michigan,year2015,4718,898.0,Michigan,2144307
+248,Michigan,year2016,4847,729.0,Michigan,2144307
+249,Michigan,year2017,5066,878.0,Michigan,2144307
+250,Michigan,year2018,4597,827.0,Michigan,2144307
+251,Michigan,year2019,4320,785.0,Michigan,2144307
+252,Michigan,year2020,3080,462.0,Michigan,2144307
+253,Minnesota,year2010,4489,181.0,Minnesota,1303212
+254,Minnesota,year2011,4684,178.0,Minnesota,1303212
+255,Minnesota,year2012,4666,195.0,Minnesota,1303212
+256,Minnesota,year2013,4598,213.0,Minnesota,1303212
+257,Minnesota,year2014,4778,261.0,Minnesota,1303212
+258,Minnesota,year2015,5340,304.0,Minnesota,1303212
+259,Minnesota,year2016,5516,374.0,Minnesota,1303212
+260,Minnesota,year2017,5662,285.0,Minnesota,1303212
+261,Minnesota,year2018,5103,285.0,Minnesota,1303212
+262,Minnesota,year2019,4616,304.0,Minnesota,1303212
+263,Minnesota,year2020,3646,151.0,Minnesota,1303212
+264,Mississippi,year2010,2015,384.0,Mississippi,699984
+265,Mississippi,year2011,1861,423.0,Mississippi,699984
+266,Mississippi,year2012,1878,376.0,Mississippi,699984
+267,Mississippi,year2013,2005,338.0,Mississippi,699984
+268,Mississippi,year2014,2290,400.0,Mississippi,699984
+269,Mississippi,year2015,2426,507.0,Mississippi,699984
+270,Mississippi,year2016,2914,569.0,Mississippi,699984
+271,Mississippi,year2017,2413,491.0,Mississippi,699984
+272,Mississippi,year2018,1883,453.0,Mississippi,699984
+273,Mississippi,year2019,1821,477.0,Mississippi,699984
+274,Mississippi,year2020,1332,288.0,Mississippi,699984
+275,Missouri,year2010,4541,699.0,Missouri,1374703
+276,Missouri,year2011,4497,796.0,Missouri,1374703
+277,Missouri,year2012,4779,964.0,Missouri,1374703
+278,Missouri,year2013,4882,929.0,Missouri,1374703
+279,Missouri,year2014,5479,1113.0,Missouri,1374703
+280,Missouri,year2015,5232,939.0,Missouri,1374703
+281,Missouri,year2016,5608,946.0,Missouri,1374703
+282,Missouri,year2017,5158,974.0,Missouri,1374703
+283,Missouri,year2018,5224,1046.0,Missouri,1374703
+284,Missouri,year2019,5267,992.0,Missouri,1374703
+285,Missouri,year2020,4710,858.0,Missouri,1374703
+286,Montana,year2010,750,,Montana,228888
+287,Montana,year2011,831,,Montana,228888
+288,Montana,year2012,1026,,Montana,228888
+289,Montana,year2013,1073,,Montana,228888
+290,Montana,year2014,1051,,Montana,228888
+291,Montana,year2015,1564,,Montana,228888
+292,Montana,year2016,1728,,Montana,228888
+293,Montana,year2017,1829,,Montana,228888
+294,Montana,year2018,1773,,Montana,228888
+295,Montana,year2019,1669,,Montana,228888
+296,Montana,year2020,1547,,Montana,228888
+297,Nebraska,year2010,2596,139.0,Nebraska,476033
+298,Nebraska,year2011,2451,124.0,Nebraska,476033
+299,Nebraska,year2012,2005,102.0,Nebraska,476033
+300,Nebraska,year2013,2066,117.0,Nebraska,476033
+301,Nebraska,year2014,1638,136.0,Nebraska,476033
+302,Nebraska,year2015,1812,147.0,Nebraska,476033
+303,Nebraska,year2016,1941,143.0,Nebraska,476033
+304,Nebraska,year2017,2002,116.0,Nebraska,476033
+305,Nebraska,year2018,1372,157.0,Nebraska,476033
+306,Nebraska,year2019,1644,295.0,Nebraska,476033
+307,Nebraska,year2020,1514,338.0,Nebraska,476033
+308,Nevada,year2010,2167,235.0,Nevada,694730
+309,Nevada,year2011,2122,304.0,Nevada,694730
+310,Nevada,year2012,2425,351.0,Nevada,694730
+311,Nevada,year2013,2511,349.0,Nevada,694730
+312,Nevada,year2014,2608,342.0,Nevada,694730
+313,Nevada,year2015,2769,312.0,Nevada,694730
+314,Nevada,year2016,2592,291.0,Nevada,694730
+315,Nevada,year2017,2474,204.0,Nevada,694730
+316,Nevada,year2018,2420,142.0,Nevada,694730
+317,Nevada,year2019,2454,164.0,Nevada,694730
+318,Nevada,year2020,2038,111.0,Nevada,694730
+319,New Hampshire,year2010,397,3.0,New Hampshire,255785
+320,New Hampshire,year2011,382,8.0,New Hampshire,255785
+321,New Hampshire,year2012,409,5.0,New Hampshire,255785
+322,New Hampshire,year2013,471,7.0,New Hampshire,255785
+323,New Hampshire,year2014,408,,New Hampshire,255785
+324,New Hampshire,year2015,521,2.0,New Hampshire,255785
+325,New Hampshire,year2016,635,5.0,New Hampshire,255785
+326,New Hampshire,year2017,720,,New Hampshire,255785
+327,New Hampshire,year2018,678,24.0,New Hampshire,255785
+328,New Hampshire,year2019,635,18.0,New Hampshire,255785
+329,New Hampshire,year2020,458,1.0,New Hampshire,255785
+330,New Jersey,year2010,3500,278.0,New Jersey,1943575
+331,New Jersey,year2011,3519,366.0,New Jersey,1943575
+332,New Jersey,year2012,4040,352.0,New Jersey,1943575
+333,New Jersey,year2013,4066,397.0,New Jersey,1943575
+334,New Jersey,year2014,3835,334.0,New Jersey,1943575
+335,New Jersey,year2015,3536,346.0,New Jersey,1943575
+336,New Jersey,year2016,3248,339.0,New Jersey,1943575
+337,New Jersey,year2017,2779,312.0,New Jersey,1943575
+338,New Jersey,year2018,2591,313.0,New Jersey,1943575
+339,New Jersey,year2019,1943,190.0,New Jersey,1943575
+340,New Jersey,year2020,1264,105.0,New Jersey,1943575
+341,New Mexico,year2010,1351,272.0,New Mexico,477209
+342,New Mexico,year2011,1404,275.0,New Mexico,477209
+343,New Mexico,year2012,1300,278.0,New Mexico,477209
+344,New Mexico,year2013,1470,370.0,New Mexico,477209
+345,New Mexico,year2014,1682,363.0,New Mexico,477209
+346,New Mexico,year2015,1403,338.0,New Mexico,477209
+347,New Mexico,year2016,1487,303.0,New Mexico,477209
+348,New Mexico,year2017,1426,343.0,New Mexico,477209
+349,New Mexico,year2018,1259,279.0,New Mexico,477209
+350,New Mexico,year2019,1109,202.0,New Mexico,477209
+351,New Mexico,year2020,920,207.0,New Mexico,477209
+352,New York,year2010,9579,93.0,New York,4031894
+353,New York,year2011,8284,276.0,New York,4031894
+354,New York,year2012,8005,143.0,New York,4031894
+355,New York,year2013,7146,385.0,New York,4031894
+356,New York,year2014,7312,444.0,New York,4031894
+357,New York,year2015,7044,478.0,New York,4031894
+358,New York,year2016,6719,490.0,New York,4031894
+359,New York,year2017,7164,502.0,New York,4031894
+360,New York,year2018,6409,433.0,New York,4031894
+361,New York,year2019,6294,425.0,New York,4031894
+362,New York,year2020,4713,327.0,New York,4031894
+363,North Carolina,year2010,3705,481.0,North Carolina,2304554
+364,North Carolina,year2011,3841,543.0,North Carolina,2304554
+365,North Carolina,year2012,3942,510.0,North Carolina,2304554
+366,North Carolina,year2013,4085,578.0,North Carolina,2304554
+367,North Carolina,year2014,4351,722.0,North Carolina,2304554
+368,North Carolina,year2015,4286,640.0,North Carolina,2304554
+369,North Carolina,year2016,8489,1243.0,North Carolina,2304554
+370,North Carolina,year2017,4487,594.0,North Carolina,2304554
+371,North Carolina,year2018,4266,603.0,North Carolina,2304554
+372,North Carolina,year2019,4300,676.0,North Carolina,2304554
+373,North Carolina,year2020,3883,582.0,North Carolina,2304554
+374,North Dakota,year2010,628,18.0,North Dakota,180584
+375,North Dakota,year2011,582,14.0,North Dakota,180584
+376,North Dakota,year2012,641,15.0,North Dakota,180584
+377,North Dakota,year2013,719,14.0,North Dakota,180584
+378,North Dakota,year2014,703,7.0,North Dakota,180584
+379,North Dakota,year2015,793,23.0,North Dakota,180584
+380,North Dakota,year2016,792,18.0,North Dakota,180584
+381,North Dakota,year2017,822,17.0,North Dakota,180584
+382,North Dakota,year2018,859,18.0,North Dakota,180584
+383,North Dakota,year2019,754,15.0,North Dakota,180584
+384,North Dakota,year2020,716,27.0,North Dakota,180584
+385,Ohio,year2010,7339,434.0,Ohio,2581403
+386,Ohio,year2011,7684,541.0,Ohio,2581403
+387,Ohio,year2012,7308,539.0,Ohio,2581403
+388,Ohio,year2013,7565,629.0,Ohio,2581403
+389,Ohio,year2014,7571,584.0,Ohio,2581403
+390,Ohio,year2015,8061,645.0,Ohio,2581403
+391,Ohio,year2016,8364,626.0,Ohio,2581403
+392,Ohio,year2017,9214,760.0,Ohio,2581403
+393,Ohio,year2018,9380,902.0,Ohio,2581403
+394,Ohio,year2019,9446,776.0,Ohio,2581403
+395,Ohio,year2020,7729,583.0,Ohio,2581403
+396,Oklahoma,year2010,3343,480.0,Oklahoma,953923
+397,Oklahoma,year2011,3616,472.0,Oklahoma,953923
+398,Oklahoma,year2012,4189,641.0,Oklahoma,953923
+399,Oklahoma,year2013,4690,798.0,Oklahoma,953923
+400,Oklahoma,year2014,4389,630.0,Oklahoma,953923
+401,Oklahoma,year2015,4178,551.0,Oklahoma,953923
+402,Oklahoma,year2016,4079,469.0,Oklahoma,953923
+403,Oklahoma,year2017,3970,463.0,Oklahoma,953923
+404,Oklahoma,year2018,3600,451.0,Oklahoma,953923
+405,Oklahoma,year2019,3441,345.0,Oklahoma,953923
+406,Oklahoma,year2020,2996,334.0,Oklahoma,953923
+407,Oregon,year2010,3738,795.0,Oregon,864815
+408,Oregon,year2011,3224,64.0,Oregon,864815
+409,Oregon,year2012,3090,413.0,Oregon,864815
+410,Oregon,year2013,2812,343.0,Oregon,864815
+411,Oregon,year2014,2630,341.0,Oregon,864815
+412,Oregon,year2015,2929,357.0,Oregon,864815
+413,Oregon,year2016,2979,445.0,Oregon,864815
+414,Oregon,year2017,3211,523.0,Oregon,864815
+415,Oregon,year2018,2615,557.0,Oregon,864815
+416,Oregon,year2019,2556,478.0,Oregon,864815
+417,Oregon,year2020,1997,341.0,Oregon,864815
+418,Pennsylvania,year2010,13172,1421.0,Pennsylvania,2635819
+419,Pennsylvania,year2011,8121,934.0,Pennsylvania,2635819
+420,Pennsylvania,year2012,7956,881.0,Pennsylvania,2635819
+421,Pennsylvania,year2013,7557,970.0,Pennsylvania,2635819
+422,Pennsylvania,year2014,8470,1115.0,Pennsylvania,2635819
+423,Pennsylvania,year2015,8692,1200.0,Pennsylvania,2635819
+424,Pennsylvania,year2016,8245,1326.0,Pennsylvania,2635819
+425,Pennsylvania,year2017,8496,1280.0,Pennsylvania,2635819
+426,Pennsylvania,year2018,7661,1107.0,Pennsylvania,2635819
+427,Pennsylvania,year2019,7184,1133.0,Pennsylvania,2635819
+428,Pennsylvania,year2020,5217,693.0,Pennsylvania,2635819
+429,Puerto Rico,year2010,1393,213.0,Puerto Rico,572801
+430,Puerto Rico,year2011,956,241.0,Puerto Rico,572801
+431,Puerto Rico,year2012,725,198.0,Puerto Rico,572801
+432,Puerto Rico,year2013,982,240.0,Puerto Rico,572801
+433,Puerto Rico,year2014,547,162.0,Puerto Rico,572801
+434,Puerto Rico,year2015,363,54.0,Puerto Rico,572801
+435,Puerto Rico,year2016,177,24.0,Puerto Rico,572801
+436,Puerto Rico,year2017,250,26.0,Puerto Rico,572801
+437,Puerto Rico,year2018,660,78.0,Puerto Rico,572801
+438,Puerto Rico,year2019,677,90.0,Puerto Rico,572801
+439,Puerto Rico,year2020,370,47.0,Puerto Rico,572801
+440,Rhode Island,year2010,1139,67.0,Rhode Island,203923
+441,Rhode Island,year2011,919,44.0,Rhode Island,203923
+442,Rhode Island,year2012,976,68.0,Rhode Island,203923
+443,Rhode Island,year2013,967,90.0,Rhode Island,203923
+444,Rhode Island,year2014,958,66.0,Rhode Island,203923
+445,Rhode Island,year2015,928,88.0,Rhode Island,203923
+446,Rhode Island,year2016,821,81.0,Rhode Island,203923
+447,Rhode Island,year2017,981,90.0,Rhode Island,203923
+448,Rhode Island,year2018,974,91.0,Rhode Island,203923
+449,Rhode Island,year2019,835,110.0,Rhode Island,203923
+450,Rhode Island,year2020,607,70.0,Rhode Island,203923
+451,South Carolina,year2010,2586,62.0,South Carolina,1113673
+452,South Carolina,year2011,2142,75.0,South Carolina,1113673
+453,South Carolina,year2012,2127,112.0,South Carolina,1113673
+454,South Carolina,year2013,2266,124.0,South Carolina,1113673
+455,South Carolina,year2014,2576,113.0,South Carolina,1113673
+456,South Carolina,year2015,2821,131.0,South Carolina,1113673
+457,South Carolina,year2016,2857,141.0,South Carolina,1113673
+458,South Carolina,year2017,2754,150.0,South Carolina,1113673
+459,South Carolina,year2018,3178,102.0,South Carolina,1113673
+460,South Carolina,year2019,3029,117.0,South Carolina,1113673
+461,South Carolina,year2020,1993,77.0,South Carolina,1113673
+462,South Dakota,year2010,1118,43.0,South Dakota,217817
+463,South Dakota,year2011,1116,73.0,South Dakota,217817
+464,South Dakota,year2012,904,51.0,South Dakota,217817
+465,South Dakota,year2013,664,42.0,South Dakota,217817
+466,South Dakota,year2014,770,31.0,South Dakota,217817
+467,South Dakota,year2015,812,40.0,South Dakota,217817
+468,South Dakota,year2016,871,37.0,South Dakota,217817
+469,South Dakota,year2017,880,39.0,South Dakota,217817
+470,South Dakota,year2018,837,60.0,South Dakota,217817
+471,South Dakota,year2019,941,80.0,South Dakota,217817
+472,South Dakota,year2020,826,53.0,South Dakota,217817
+473,Tennessee,year2010,4603,109.0,Tennessee,1510976
+474,Tennessee,year2011,4935,232.0,Tennessee,1510976
+475,Tennessee,year2012,5029,302.0,Tennessee,1510976
+476,Tennessee,year2013,5272,343.0,Tennessee,1510976
+477,Tennessee,year2014,4177,272.0,Tennessee,1510976
+478,Tennessee,year2015,4701,345.0,Tennessee,1510976
+479,Tennessee,year2016,4735,462.0,Tennessee,1510976
+480,Tennessee,year2017,5250,509.0,Tennessee,1510976
+481,Tennessee,year2018,5318,564.0,Tennessee,1510976
+482,Tennessee,year2019,5327,617.0,Tennessee,1510976
+483,Tennessee,year2020,4257,481.0,Tennessee,1510976
+484,Texas,year2010,12114,2499.0,Texas,7406777
+485,Texas,year2011,12992,2215.0,Texas,7406777
+486,Texas,year2012,12761,2271.0,Texas,7406777
+487,Texas,year2013,12945,2337.0,Texas,7406777
+488,Texas,year2014,13372,2422.0,Texas,7406777
+489,Texas,year2015,13219,2303.0,Texas,7406777
+490,Texas,year2016,14908,2311.0,Texas,7406777
+491,Texas,year2017,15281,1982.0,Texas,7406777
+492,Texas,year2018,15359,1823.0,Texas,7406777
+493,Texas,year2019,14018,1557.0,Texas,7406777
+494,Texas,year2020,12581,1241.0,Texas,7406777
+495,Utah,year2010,1736,265.0,Utah,929940
+496,Utah,year2011,1517,264.0,Utah,929940
+497,Utah,year2012,1721,262.0,Utah,929940
+498,Utah,year2013,1642,269.0,Utah,929940
+499,Utah,year2014,1839,306.0,Utah,929940
+500,Utah,year2015,1750,297.0,Utah,929940
+501,Utah,year2016,1828,313.0,Utah,929940
+502,Utah,year2017,1743,363.0,Utah,929940
+503,Utah,year2018,1479,325.0,Utah,929940
+504,Utah,year2019,1542,287.0,Utah,929940
+505,Utah,year2020,1198,224.0,Utah,929940
+506,Vermont,year2010,441,12.0,Vermont,114325
+507,Vermont,year2011,519,24.0,Vermont,114325
+508,Vermont,year2012,462,17.0,Vermont,114325
+509,Vermont,year2013,520,19.0,Vermont,114325
+510,Vermont,year2014,605,26.0,Vermont,114325
+511,Vermont,year2015,771,41.0,Vermont,114325
+512,Vermont,year2016,599,29.0,Vermont,114325
+513,Vermont,year2017,593,23.0,Vermont,114325
+514,Vermont,year2018,652,13.0,Vermont,114325
+515,Vermont,year2019,552,24.0,Vermont,114325
+516,Vermont,year2020,401,26.0,Vermont,114325
+517,Virginia,year2010,2120,257.0,Virginia,1868689
+518,Virginia,year2011,2010,250.0,Virginia,1868689
+519,Virginia,year2012,2056,273.0,Virginia,1868689
+520,Virginia,year2013,1973,336.0,Virginia,1868689
+521,Virginia,year2014,2228,285.0,Virginia,1868689
+522,Virginia,year2015,2207,331.0,Virginia,1868689
+523,Virginia,year2016,2214,321.0,Virginia,1868689
+524,Virginia,year2017,2105,311.0,Virginia,1868689
+525,Virginia,year2018,2206,255.0,Virginia,1868689
+526,Virginia,year2019,2160,339.0,Virginia,1868689
+527,Virginia,year2020,1776,237.0,Virginia,1868689
+528,Washington,year2010,4952,401.0,Washington,1661024
+529,Washington,year2011,4379,324.0,Washington,1661024
+530,Washington,year2012,4093,290.0,Washington,1661024
+531,Washington,year2013,4395,364.0,Washington,1661024
+532,Washington,year2014,4623,430.0,Washington,1661024
+533,Washington,year2015,4346,470.0,Washington,1661024
+534,Washington,year2016,4269,432.0,Washington,1661024
+535,Washington,year2017,4534,644.0,Washington,1661024
+536,Washington,year2018,4208,584.0,Washington,1661024
+537,Washington,year2019,3948,544.0,Washington,1661024
+538,Washington,year2020,3041,388.0,Washington,1661024
+539,West Virginia,year2010,2269,185.0,West Virginia,360439
+540,West Virginia,year2011,2726,185.0,West Virginia,360439
+541,West Virginia,year2012,2665,232.0,West Virginia,360439
+542,West Virginia,year2013,2699,214.0,West Virginia,360439
+543,West Virginia,year2014,2897,232.0,West Virginia,360439
+544,West Virginia,year2015,3093,279.0,West Virginia,360439
+545,West Virginia,year2016,3573,372.0,West Virginia,360439
+546,West Virginia,year2017,3983,380.0,West Virginia,360439
+547,West Virginia,year2018,3906,417.0,West Virginia,360439
+548,West Virginia,year2019,3943,436.0,West Virginia,360439
+549,West Virginia,year2020,3448,371.0,West Virginia,360439
+550,Wisconsin,year2010,3533,233.0,Wisconsin,1267935
+551,Wisconsin,year2011,3391,163.0,Wisconsin,1267935
+552,Wisconsin,year2012,3289,174.0,Wisconsin,1267935
+553,Wisconsin,year2013,3623,195.0,Wisconsin,1267935
+554,Wisconsin,year2014,3700,258.0,Wisconsin,1267935
+555,Wisconsin,year2015,3591,220.0,Wisconsin,1267935
+556,Wisconsin,year2016,3581,243.0,Wisconsin,1267935
+557,Wisconsin,year2017,3973,301.0,Wisconsin,1267935
+558,Wisconsin,year2018,3818,266.0,Wisconsin,1267935
+559,Wisconsin,year2019,3498,269.0,Wisconsin,1267935
+560,Wisconsin,year2020,2906,175.0,Wisconsin,1267935
+561,Wyoming,year2010,749,11.0,Wyoming,133577
+562,Wyoming,year2011,703,89.0,Wyoming,133577
+563,Wyoming,year2012,773,53.0,Wyoming,133577
+564,Wyoming,year2013,782,61.0,Wyoming,133577
+565,Wyoming,year2014,751,46.0,Wyoming,133577
+566,Wyoming,year2015,844,59.0,Wyoming,133577
+567,Wyoming,year2016,728,48.0,Wyoming,133577
+568,Wyoming,year2017,904,60.0,Wyoming,133577
+569,Wyoming,year2018,802,50.0,Wyoming,133577
+570,Wyoming,year2019,795,68.0,Wyoming,133577
+571,Wyoming,year2020,603,47.0,Wyoming,133577
