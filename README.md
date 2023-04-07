@@ -1,4 +1,4 @@
-# Technology Association of Georgia Master Modeler Competition 2023 \
+# Technology Association of Georgia Master Modeler Competition 2023
 ## Foster Care and Housing Insecurity: An Analytical Approach to Improving the Child Welfare System
 
 These files represent our work to enter the 2023 TAG Data Science for Social Good Master Modeler competition. The problem statement was to better understand the relationship between housing insecurity and removal of children into foster care.
